@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Letzgo.iml" filepath="$PROJECT_DIR$/.idea/Letzgo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1042280394/backend.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1042280394/backend.main.iml" />
     </modules>
   </component>
 </project>
